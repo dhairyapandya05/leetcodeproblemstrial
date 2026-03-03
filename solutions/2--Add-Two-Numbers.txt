@@ -15,4 +15,5 @@ public:
         ListNode* forward=NULL;
         while(curr!=NULL){
  *     ListNode *next;
+            forward=curr->next;
 
