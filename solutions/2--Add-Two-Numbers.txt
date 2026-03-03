@@ -1,14 +1,7 @@
 // Problem: 2. Add Two Numbers
 // Difficulty: Medium
-// URL: https://leetcode.com/problems/add-two-numbers/submissions/1936457050/?submissionId=1936455596
+// URL: https://leetcode.com/problems/add-two-numbers/?submissionId=1936455596
 
-        while(curr!=NULL){
-            forward=curr->next;
-            curr->next=prev;
-            prev=curr;
-        ListNode* forward=NULL;
-        ListNode* curr=head;
-        ListNode* prev=NULL;
 class Solution {
 public:
     ListNode* reverse_ll(ListNode* head){
