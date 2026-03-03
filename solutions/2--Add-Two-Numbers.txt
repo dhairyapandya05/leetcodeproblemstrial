@@ -1,8 +1,7 @@
 // Problem: 2. Add Two Numbers
 // Difficulty: Medium
-// URL: https://leetcode.com/problems/add-two-numbers/?submissionId=1936455596
+// URL: https://leetcode.com/problems/add-two-numbers/submissions/1936457050/?submissionId=1936455596
 
-/**
  * Definition for singly-linked list.
  * struct ListNode {
  *     int val;
@@ -22,4 +21,6 @@ public:
             forward=curr->next;
             curr->next=prev;
             prev=curr;
+            curr=forward;
+        }
 
