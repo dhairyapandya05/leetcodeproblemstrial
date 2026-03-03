@@ -2,18 +2,5 @@
 // Difficulty: Medium
 // URL: https://leetcode.com/problems/add-two-numbers/?submissionId=1936455596
 
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
-class Solution {
-public:
-    ListNode* reverse_ll(ListNode* head){
-        ListNode* curr=head;
-        ListNode* prev=NULL;
-        ListNode* forward=NULL;
-        while(curr!=NULL){
  *     ListNode *next;
-            forward=curr->next;
 
