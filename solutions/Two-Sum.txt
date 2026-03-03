@@ -1,6 +1,5 @@
 // Problem: Two Sum
 // Difficulty: Unknown
-// URL: https://leetcode.com/problems/two-sum/submissions/1936452121/?source=submission-ac
+// URL: https://leetcode.com/problems/two-sum/submissions/1936455596/?submissionId=1936455596
 
-class Solution {
 
