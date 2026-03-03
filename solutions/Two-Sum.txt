@@ -1,5 +1,5 @@
 // Problem: Two Sum
 // Difficulty: Unknown
-// URL: https://leetcode.com/problems/two-sum/submissions/1936455596/?submissionId=1936455596
+// URL: https://leetcode.com/problems/two-sum/submissions/1936455596/
 
-
+null
