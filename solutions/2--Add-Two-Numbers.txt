@@ -2,10 +2,6 @@
 // Difficulty: Medium
 // URL: https://leetcode.com/problems/add-two-numbers/submissions/1936464621/?submissionId=1936455596
 
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
  *     ListNode() : val(0), next(nullptr) {}
  *     ListNode(int x) : val(x), next(nullptr) {}
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
@@ -23,4 +19,8 @@ public:
             prev=curr;
             curr=forward;
         }
+ *     ListNode *next;
+        return prev;
+    }
+
 
