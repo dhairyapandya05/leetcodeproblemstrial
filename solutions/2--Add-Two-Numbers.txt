@@ -1,18 +1,5 @@
 // Problem: 2. Add Two Numbers
 // Difficulty: Medium
-// URL: https://leetcode.com/problems/add-two-numbers/submissions/1936466998/?submissionId=1936455596
+// URL: https://leetcode.com/problems/add-two-numbers/description/?submissionId=1936455596
 
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
-class Solution {
-public:
-    ListNode* reverse_ll(ListNode* head){
-        ListNode* curr=head;
-        ListNode* prev=NULL;
-        ListNode* forward=NULL;
-        while(curr!=NULL){
-
+null
