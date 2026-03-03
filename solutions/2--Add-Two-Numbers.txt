@@ -1,6 +1,6 @@
 // Problem: 2. Add Two Numbers
 // Difficulty: Medium
-// URL: https://leetcode.com/problems/add-two-numbers/submissions/1936464621/?submissionId=1936455596
+// URL: https://leetcode.com/problems/add-two-numbers/?submissionId=1936455596
 
  *     ListNode() : val(0), next(nullptr) {}
  *     ListNode(int x) : val(x), next(nullptr) {}
@@ -14,13 +14,5 @@ public:
         ListNode* prev=NULL;
         ListNode* forward=NULL;
         while(curr!=NULL){
-            forward=curr->next;
-            curr->next=prev;
-            prev=curr;
-            curr=forward;
-        }
  *     ListNode *next;
-        return prev;
-    }
-
 
