@@ -1,7 +1,7 @@
 // Problem: 2. Add Two Numbers
 // Difficulty: Medium
-// URL: https://leetcode.com/problems/add-two-numbers/?submissionId=1936455596
+// URL: https://leetcode.com/problems/add-two-numbers/submissions/1936464621/?submissionId=1936455596
 
-/**
  * Definition for singly-linked list.
+ * struct ListNode {
 
