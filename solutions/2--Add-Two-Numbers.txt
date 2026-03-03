@@ -1,5 +1,5 @@
 // Problem: 2. Add Two Numbers
 // Difficulty: Medium
-// URL: https://leetcode.com/problems/add-two-numbers/description/?submissionId=1936455596
+// URL: https://leetcode.com/problems/add-two-numbers/submissions/1936648525/?submissionId=1936455596
 
 null
